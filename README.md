@@ -10,12 +10,12 @@ We provided a shell script `run_demo.sh` to run our code. It is a demo of using 
 
 ## Citation
 Please cite our paper, If you use this code, please cite our paper:
-@ARTICLE{9749010,
-  author={Zhao, Chenqiu and Hu, Kangkang and Basu, Anup},
-  journal={IEEE Transactions on Image Processing}, 
-  title={Universal Background Subtraction Based on Arithmetic Distribution Neural Network}, 
-  year={2022},
-  volume={31},
-  number={},
-  pages={2934-2949},
-  doi={10.1109/TIP.2022.3162961}}
+      @ARTICLE{9749010,
+        author={Zhao, Chenqiu and Hu, Kangkang and Basu, Anup},
+        journal={IEEE Transactions on Image Processing}, 
+        title={Universal Background Subtraction Based on Arithmetic Distribution Neural Network}, 
+        year={2022},
+        volume={31},
+        number={},
+        pages={2934-2949},
+        doi={10.1109/TIP.2022.3162961}}
