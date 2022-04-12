@@ -9,5 +9,13 @@ Anaconda + Pytorch
 We provided a shell script `run_demo.sh` to run our code. It is a demo of using ADNNet (Arithmetic Distribution Neural Network) for background subtraction. Then, `run_universal.sh` provided a pre-trained model which is trained with less than 1\% of ground truth frames from the CDNet2014 dataset but tested for all videos from CDNet2014, LASIESTA, and SBMI2015 datasets. For more details, please check our paper. Moreover, `run_ADNNvsCNN.sh` proposed a comparison between the ADNNet and CNNet (convolutional neural network) in background subtraction, for more comparison results, please check our paper. In addition, folder `verification` provided the verification of the ADNNet. 
 
 ## Citation
-Please cite our paper, If you use our code.
-Building...
+Please cite our paper, If you use this code, please cite our paper:
+@ARTICLE{9749010,
+  author={Zhao, Chenqiu and Hu, Kangkang and Basu, Anup},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Universal Background Subtraction Based on Arithmetic Distribution Neural Network}, 
+  year={2022},
+  volume={31},
+  number={},
+  pages={2934-2949},
+  doi={10.1109/TIP.2022.3162961}}
